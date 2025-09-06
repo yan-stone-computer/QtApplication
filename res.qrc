@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>plus.png</file>
+        <file>help.webp</file>
+        <file>help2.webp</file>
+        <file>open.png</file>
+        <file>save.png</file>
+        <file>calculator.ico</file>
+    </qresource>
+</RCC>

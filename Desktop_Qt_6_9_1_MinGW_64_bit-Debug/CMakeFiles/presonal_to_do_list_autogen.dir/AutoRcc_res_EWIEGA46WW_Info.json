@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "D:/QtProjectFolder/presonal_to_do_list/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/presonal_to_do_list_autogen",
+	"CMAKE_BINARY_DIR" : "D:/QtProjectFolder/presonal_to_do_list/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/QtProjectFolder/presonal_to_do_list/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/QtProjectFolder/presonal_to_do_list",
+	"CMAKE_SOURCE_DIR" : "D:/QtProjectFolder/presonal_to_do_list",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "D:/QtProjectFolder/presonal_to_do_list/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/presonal_to_do_list_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/QtProjectFolder/presonal_to_do_list/plus.png",
+		"D:/QtProjectFolder/presonal_to_do_list/help.webp",
+		"D:/QtProjectFolder/presonal_to_do_list/help2.webp"
+	],
+	"LOCK_FILE" : "D:/QtProjectFolder/presonal_to_do_list/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/presonal_to_do_list_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/6.9.1/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/QtProjectFolder/presonal_to_do_list/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/presonal_to_do_list_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/QtProjectFolder/presonal_to_do_list/res.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
